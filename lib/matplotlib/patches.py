@@ -1453,7 +1453,7 @@ class Ellipse(Patch):
 
     def get_path(self):
         """
-        Return the vertices of the rectangle
+        Return the vertices of the ellipse
         """
         return self._path
 
